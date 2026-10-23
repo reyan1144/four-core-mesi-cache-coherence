@@ -130,7 +130,7 @@ tb_directed_mesi
 Launch behavioral simulation and run:
 
 ```tcl
-run all
+run -all
 ```
 
 Expected completion markers:
